@@ -77,7 +77,7 @@ public class frmProductos extends javax.swing.JFrame {
         });
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel1.setText("Ingrese los datos");
+        jLabel1.setText("powewr");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(124, 11, 122, -1));
 
         lblId.setText("Id");
